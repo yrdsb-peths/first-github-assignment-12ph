@@ -15,7 +15,7 @@ public class Rectangle()
          public void setArea()
          {
              area = length * height;
-             System.println.area;
+             
          }
 
     }
